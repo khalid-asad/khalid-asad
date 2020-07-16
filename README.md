@@ -23,13 +23,13 @@
 <a href="https://open.spotify.com/user/12164794173?si=XcSQ-vVERXG-kxPe5eKufg">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
-
+<br>
 
 ### Hi there 👋
 
 ## 🔭 I'm currently working on
-- <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> TMDb - The Movie Database - https://github.com/khalid-asad/Movie-Database
-- My Medium profile: https://medium.com/@khalidasad93/
+- <a href="https://github.com/khalid-asad/Movie-Database"><img align="left" alt="TMDb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> TMDb - The Movie Database!
+- <a href="https://github.com/khalid-asad/PlatformCommon"><img align="left" alt="Platform Common" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> PlatformCommon - A Common platform to store my most used custom functions as an API.
 - Various other small projects on my GitHub
 
 I would always be happy to include others to contribute to my projects.
