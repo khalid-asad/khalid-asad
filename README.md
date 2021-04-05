@@ -29,6 +29,7 @@
 
 ## 🔭 I'm currently working on
 - <a href="https://github.com/khalid-asad/Movie-Database"><img align="left" alt="TMDb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> TMDb - The Movie Database!
+- <a href="https://github.com/khalid-asad/bug-me-not-ios"><img align="left" alt="BugMeNot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> BugMeNot - The unofficial iOS App!
 - <a href="https://github.com/khalid-asad/PlatformCommon"><img align="left" alt="Platform Common" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> PlatformCommon - A Common platform to store my most used custom functions as an API.
 - Various other small projects on my GitHub
 
