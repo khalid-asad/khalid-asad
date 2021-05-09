@@ -28,7 +28,7 @@
 ### Hi there 👋
 
 ## 🔭 I'm currently working on
-- <a href="https://github.com/khalid-asad/card-reader-ios"><img align="left" alt="Card Reader" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> Native Credit Card Reader for iOS in SwiftUI using Vision/VisionKit!
+- <a href="https://github.com/khalid-asad/card-reader-ios"><img align="left" alt="Card Reader" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> CardReader - Native Credit Card Reader for iOS in SwiftUI using Vision/VisionKit!
 - <a href="https://github.com/khalid-asad/giftstory-ios"><img align="left" alt="Giftstory (iOS)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> Giftstory (iOS) - A historical view of all the gifts you've given and received from your friends!
 - <a href="https://github.com/khalid-asad/giftstory-api-js"><img align="left" alt="Giftstory (Backend Node.js)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> Giftstory (Node.js) - A historical view of all the gifts you've given and received from your friends!
 - <a href="https://github.com/khalid-asad/bug-me-not-ios"><img align="left" alt="BugMeNot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/></a> BugMeNot - The unofficial iOS App!
